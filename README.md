@@ -1,4 +1,4 @@
-# Mantine Vite template
+# Mony App
 
 ## Features
 
